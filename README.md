@@ -36,5 +36,5 @@ This repository contains projects that demonstrate how to work with external API
   - Optionally visualize features like track popularity or audio characteristics
 
 - **Tools Used:**  
-  - **Python** (`spotipy`, `pandas`, `matplotlib`)
+  - **Python** (`pandas`, `requests`, `json`)
   - **Jupyter Notebook**
