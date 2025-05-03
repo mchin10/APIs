@@ -18,4 +18,28 @@ This repository contains projects that demonstrate how to work with external API
   - Visualize weather trends and create summary statistics
 
 - **Tools Used:**  
-  - **Python**
+  - **Python** (`requests`, `pandas`, `matplotlib`, `seaborn`)
+  - **Jupyter Notebook**
+
+---
+
+### 📁 Project 2: Spotify API — Artist-Based Playlist Generator
+
+- **Objective:**  
+  Use the **Spotify Web API** to generate a personalized playlist by retrieving track recommendations based on a selected artist’s style.
+
+- **Key Activities:**  
+  - Authenticate and connect to the Spotify Web API
+  - Search for a specific artist by name
+  - Retrieve recommended tracks similar to that artist
+  - Assemble the recommended tracks into a custom playlist
+  - Optionally visualize features like track popularity or audio characteristics
+
+- **Tools Used:**  
+  - **Python** (`spotipy`, `pandas`, `matplotlib`)
+  - **Jupyter Notebook**
+
+---
+
+## 📌 Repository Structure
+
