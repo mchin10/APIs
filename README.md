@@ -18,7 +18,7 @@ This repository contains projects that demonstrate how to work with external API
   - Visualize weather trends and create summary statistics
 
 - **Tools Used:**  
-  - **Python** (`requests`, `pandas`, `matplotlib`, `seaborn`)
+  - **Python** (`requests`, `json`)
   - **Jupyter Notebook**
 
 ---
