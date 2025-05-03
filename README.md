@@ -12,7 +12,7 @@ This repository contains projects that demonstrate how to work with external API
   Connect to a **Weather API** to retrieve real-time and historical weather data, then analyze it to uncover trends and insights such as temperature patterns, humidity levels, and weather conditions over time.
 
 - **Key Activities:**  
-  - Connect to a public weather data API (e.g., OpenWeatherMap)
+  - Connect to a public weather data API (WeatherAPI.com)
   - Retrieve data for selected cities and time periods
   - Process and clean API responses
   - Visualize weather trends and create summary statistics
