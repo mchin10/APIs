@@ -38,8 +38,3 @@ This repository contains projects that demonstrate how to work with external API
 - **Tools Used:**  
   - **Python** (`spotipy`, `pandas`, `matplotlib`)
   - **Jupyter Notebook**
-
----
-
-## 📌 Repository Structure
-
