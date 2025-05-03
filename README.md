@@ -6,7 +6,7 @@ This repository contains projects that demonstrate how to work with external API
 
 ## 📂 Projects Overview
 
-### 📁 Project 1: Weather API Insights
+### ⛅ Project 1: Weather API Insights
 
 - **Objective:**  
   Connect to a **Weather API** to retrieve real-time and historical weather data, then analyze it to uncover trends and insights such as temperature patterns, humidity levels, and weather conditions over time.
@@ -23,7 +23,7 @@ This repository contains projects that demonstrate how to work with external API
 
 ---
 
-### 📁 Project 2: Spotify API — Artist-Based Playlist Generator
+### 🎵 Project 2: Spotify API — Artist-Based Playlist Generator
 
 - **Objective:**  
   Use the **Spotify Web API** to generate a personalized playlist by retrieving track recommendations based on a selected artist’s style.
